@@ -99,8 +99,7 @@ MinecraftSniper 博客模板 Pro+ 是一个**轻量、安全、可管理**的个
 
 4. **启动服务**
    ```bash
-   node server.js          # 前台博客
-   node adminserver.js     # 管理后台（Pro+ 增强）
+pnpm start
    ```
 
 5. **首次登录**
