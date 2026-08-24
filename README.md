@@ -77,7 +77,7 @@ MinecraftSniper 博客模板 Pro+ 是一个**轻量、安全、可管理**的个
 
 ## 📁 目录结构
 
-详细的目录结构请查看：[目录结构概览.txt](https://gitee.com/Minecraft-Sniper/minecraftsniperblogtemplatepro/blob/master/%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E6%A6%82%E8%A7%88.txt）
+详细的目录结构请查看：[目录结构概览.txt](https://gitee.com/Minecraft-Sniper/minecraftsniperblogtemplatepro/blob/master/%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E6%A6%82%E8%A7%88.txt)
 
 ---
 
