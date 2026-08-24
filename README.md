@@ -81,35 +81,6 @@ MinecraftSniper 博客模板 Pro+ 是一个**轻量、安全、可管理**的个
 
 ---
 
-## 🚀 快速开始
-
-1. **安装依赖**
-   ```bash
-   pnpm install
-   ```
-
-2. **配置 `adminconfig.json`**
-   - 设置管理端口（默认 443）
-   - 根据需要配置 HTTPS（`auto/true/false`）
-
-3. **启动服务**
-   ```bash
-    pnpm start
-   ```
-
-4. **首次登录**
-   - 访问 `https://localhost:443/login.html`（或对应IP地址及端口）
-   - 点击“重置密钥”生成密钥对，下载私钥
-   - 上传私钥登录后台
-
----
-
-## 📡 SSE 实时推送端点
-
-管理后台提供 `GET /api/admin/status/stream?token=<JWT>` 用于建立 SSE 连接，每 30 秒推送一次完整的监控数据（JSON 格式），方便前端构建实时仪表盘。
-
----
-
 ## ⚠️ 安全提醒
 
 - 管理端口请勿直接暴露至公网，建议通过内网或 VPN 访问。
